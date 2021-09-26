@@ -1,0 +1,2 @@
+rootProject.name = "Firebase Firestore Tutorial"
+include ':app'
